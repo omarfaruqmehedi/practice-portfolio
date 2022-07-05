@@ -14,3 +14,23 @@ h6 {
 .orange-color {
     color: orange;
 }
+
+.flex-container {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.link-hire {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 5px;
+    padding: 10px 40px;
+    color: white;
+}
